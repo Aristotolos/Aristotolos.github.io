@@ -4,11 +4,11 @@
 
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Autor:** *Martin*
 
-**Título:** 
+**Título:** *Proyecto galeria Hollow Knight*
 
-**Resumen:**
+**Resumen:** *Proyecto de la asignatura "Creación Multimedia Interactiva"*
 
 **Licencia: (creative Commons)**
 
@@ -16,7 +16,7 @@
 ### Memoria del proyecto:
 
 
-Hola
+Hola esto es un proyectito de un jueguito chulo
 
 
 
@@ -37,4 +37,4 @@ La página web de Github se podrá visualizar con el siguiente enlace: https://X
 
 
 
-Febrero 2018
+Febrero 2022
