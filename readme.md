@@ -8,31 +8,27 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Hollow Knight
 
-**Web:**   (url github.io)
+**Web:**   Aristotolos.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Martín Delgado Vic
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto está basado en el videojuego "Hollow Knight", está hecho debido al cariño que le tengo a este maravilloso juego inspirándome esa estética tan interesante que el juego tiene.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Resolución:** 800x600px
 
-(insertar imágenes a resolucion de 100px alto)
-
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome
 
 **Tamaño proyecto:** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 08/06/2020
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
 - Github:
 - Twitter
@@ -47,19 +43,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
-### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
+Tras una introducción al mundo en el que se desarrolla el proyecto, se puede elegir si ver la galería o jugar a un minijuego que tratará en intentar ver a la reina de ese extraño reino.
 
 
 
@@ -80,13 +64,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque es otra manera de conocer este juego que a tantas personas ha cautivado
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a cualquier tipo de público, aunque las personas que ya conozcan el juego lo disfrutarán más.
 
 
 
@@ -106,13 +90,13 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+El movimiento del personaje a veces causa problemas
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+He tenido bastantes problemas con este proyecto, costándome mucho programar todo lo que había que hacer. Me ha frustrado bastante, pero en cuando a la idea que elegí estoy satisfecho ya que me gusta mucho el juego en el que está basado
 
 
 
@@ -128,9 +112,8 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: "Hollow Knight OST's" 
+
 
 **Herramientas utilizadas**
 
@@ -143,4 +126,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
